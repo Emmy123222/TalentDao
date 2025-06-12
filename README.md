@@ -147,22 +147,3 @@ Deploy these contracts to your preferred testnet and update the contract address
 
 This is a hackathon project built in one week. Contributions, feedback, and suggestions are welcome!
 
-## 📄 License
-
-MIT License - see LICENSE file for details
-
-## 🏆 Hackathon Compliance
-
-✅ **Original Work**: Built entirely during hackathon week  
-✅ **AI Integration**: OpenRouter for bio tagging and opportunity matching  
-✅ **Web3 Integration**: Smart contracts, NFTs, DAO voting, wallet connections  
-✅ **Working Demo**: Fully functional demo ready in under 5 minutes  
-✅ **Documentation**: Complete setup instructions and feature overview  
-✅ **Team Size**: Solo project (1 member)  
-
-## 📞 Contact
-
-Built for the 3percentclub Hackathon by [Your Name]
-- GitHub: [your-github]
-- Twitter: [your-twitter]
-- Email: [your-email]
